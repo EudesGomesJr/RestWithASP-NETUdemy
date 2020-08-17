@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 02\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 01\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 02\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 01\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\Eudes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 02\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 01\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eudes\\AppData\\Roaming\\NuGet\\NuGet.Config",

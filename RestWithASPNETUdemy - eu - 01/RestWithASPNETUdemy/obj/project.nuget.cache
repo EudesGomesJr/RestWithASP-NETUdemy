@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3bTwxLKO+WwStfA9anaXq9ku+ngcpzEGm9mKJO+QqxD8kMv9Bg54AoGDv+bQhirmioZAg43KInTFUDUxOCzXrA==",
+  "dgSpecHash": "/+cb4l7nNNE85gGqF99xsfqP6orY/HYV9v/SThjTd+SRcPrYU0nh/a9CWsul7s80nTynHRFDh2G6rBAJ3CIMLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 02\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "C:\\Users\\Eudes\\SIT\\ProjetoAulas\\RestWithASP-NETUdemy-Eudes\\RestWithASPNETUdemy - eu - 01\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eudes\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Eudes\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
